@@ -32,6 +32,6 @@ I'm ashamed to say that when I was ready to do it myself I already found a text 
 
 恥ずかしながら、自分でやろうと思ったときに、すでに bilibili でテキスト解析の動画を見つけていたので、その[動画](https://www.bilibili.com/video/BV1U54y1H71j)を参考にしただけなのです。
 
-## 例
+## 参考
 
 ![Tensura-test-text](https://cdn.jsdelivr.net/gh/Zero-PointEnergy/imagesForBlog@master/20220118/Tensura-test-text.5grm560wc3o0.webp)
